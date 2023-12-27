@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/geniiidiotdva/static/css/main.b1d7ec7b.css",
-    "main.js": "/geniiidiotdva/static/js/main.18f18ad8.js",
-    "static/js/787.9e9f4ffd.chunk.js": "/geniiidiotdva/static/js/787.9e9f4ffd.chunk.js",
-    "static/media/logo.svg": "/geniiidiotdva/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/geniiidiotdva/index.html",
-    "main.b1d7ec7b.css.map": "/geniiidiotdva/static/css/main.b1d7ec7b.css.map",
-    "main.18f18ad8.js.map": "/geniiidiotdva/static/js/main.18f18ad8.js.map",
-    "787.9e9f4ffd.chunk.js.map": "/geniiidiotdva/static/js/787.9e9f4ffd.chunk.js.map"
+    "main.css": "/GeniiIdiotDva/static/css/main.b1d7ec7b.css",
+    "main.js": "/GeniiIdiotDva/static/js/main.22680130.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/GeniiIdiotDva/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/logo.svg": "/GeniiIdiotDva/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/GeniiIdiotDva/index.html",
+    "main.b1d7ec7b.css.map": "/GeniiIdiotDva/static/css/main.b1d7ec7b.css.map",
+    "main.22680130.js.map": "/GeniiIdiotDva/static/js/main.22680130.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/GeniiIdiotDva/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1d7ec7b.css",
-    "static/js/main.18f18ad8.js"
+    "static/js/main.22680130.js"
   ]
 }
